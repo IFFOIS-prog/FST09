@@ -6,7 +6,10 @@ git config --global user.email
 git init (git initialize) - makes folder into repo (the database for repo)
 
 Legends
-- untracked
+U - Untracked
+A - Added
+D - Deleted
+M - Modified
 
 local repo = repo in your machine
 
@@ -18,3 +21,5 @@ git three stage architecture
 git status
 
 git add . - .(dot) means current folder
+
+git commit -m = message
