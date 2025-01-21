@@ -1,0 +1,20 @@
+git - version control system - 
+
+git config --global user.name
+git config --global user.email
+
+git init (git initialize) - makes folder into repo (the database for repo)
+
+Legends
+- untracked
+
+local repo = repo in your machine
+
+git three stage architecture
+1. working area
+2. staging area (git add command)
+3. commit stage (git commit command)
+
+git status
+
+git add . - .(dot) means current folder
